@@ -2,4 +2,6 @@ Gene1  200  100  300  coding
 Gene2  100  200  400  noncoding
 Gene3  0    700  10   coding
 Gene4  1000 2000 1500 coding
+Gene5  200  20   300  coding
+Gene6  4    54   250  noncoding
 AI can be trained to predict gene interactions!
